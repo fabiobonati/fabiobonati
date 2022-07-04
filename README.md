@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @fabiobonatii, an Italian boy who is learning coding.
 ###  👀 Interested in Web Development.
-###  🌱 I’m currently learning C#, HTML5, CSS3 and Javascript.
+###  🌱 I’m currently learning: C#, HTML5, CSS3 and Javascript.
 ###  📫 Write me at: bonatifabio.dev@gmail.com
 
 <!--
