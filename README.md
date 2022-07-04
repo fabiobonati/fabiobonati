@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm @fabiobonatii, an Italian boy who is learning coding.
+###  👀 Interested in Web Development.
+###  🌱 I’m currently learning C#, HTML5, CSS3 and Javascript.
+###  📫 Write me at: bonatifabio.dev@gmail.com
 
 <!--
 **fabiobonati/fabiobonati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
