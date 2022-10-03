@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Bonati</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on [nite](www.nite.is)
+- 🔭 I’m currently working on [nite](https://github.com/nite-app)
 
 - 📫 How to reach me **bonatifabio.dev@gmail.com**
 
