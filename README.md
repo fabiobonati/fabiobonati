@@ -35,3 +35,7 @@
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<h3 align="left">My setup:</h3>
+
+-👨🏽‍💻 <a href='https://www.apple.com/it/shop/buy-mac/macbook-pro/14%22-grigio-siderale-chip-apple-m2-pro-con-cpu-10-core-e-gpu-16-core-512gb#'>MacBook Pro 14" M2 Pro</a>
