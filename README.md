@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Bonati</h1>
 <h3 align="center">A passionate developer from 🇮🇹</h3>
 
-- 🔭 I’m currently working on [nite](https://github.com/nite-app)
+- 🎓 I’m currently studying Computer Systems and Networks Security at [University of Milan](https://www.unimi.it/en/education/bachelor/computer-systems-and-networks-security)
 
 - 📫 How to reach me **bonatifabio.dev@gmail.com**
 
